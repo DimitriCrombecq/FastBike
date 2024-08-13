@@ -1,4 +1,4 @@
-![Superduper](https://raw.githubusercontent.com/blopker/superduper/main/assets/superduper_android_feature.jpg)
+
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play" width="200"/>](https://play.google.com/store/apps/details?id=io.kbl.superduper)
 
